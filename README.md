@@ -2,7 +2,6 @@
 
 Work Day Schedule is a simple web application that allows you to schedule and manage your daily tasks. It provides an intuitive interface where you can enter and save your agenda for each hour of the work day. The application also dynamically updates the styling of each time block based on the current hour.
 
-![Work Day Schedule Screenshot](screenshot.png)
 
 ## Features
 
